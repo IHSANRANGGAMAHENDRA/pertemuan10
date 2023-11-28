@@ -2,8 +2,8 @@
 
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Ali Mubaroq  |
-| **NIM** | 312310452 |
+| **Nama** | Ihsan rangga mahendra  |
+| **NIM** | 312310494 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
